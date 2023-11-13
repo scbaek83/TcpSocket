@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/scbaek/Workspace/Cpp/TCP_Socket/MyTcpServer'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5errorPKc, symObjAddr: 0x0, symBinAddr: 0x100003B70, symSize: 0x20 }
+  - { offsetInCU: 0x8C, offset: 0x8C, size: 0x8, addend: 0x0, symName: __Z5errorPKc, symObjAddr: 0x0, symBinAddr: 0x100003B70, symSize: 0x20 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x20, symBinAddr: 0x100003B90, symSize: 0x274 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: __ZL12_OSSwapInt16t, symObjAddr: 0x294, symBinAddr: 0x100003E04, symSize: 0x24 }
+...
